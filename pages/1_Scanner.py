@@ -75,8 +75,7 @@ if not text.strip() and pasted.strip():
     text = pasted
 
 if text.strip() and use_ollama and model:
-    st.caption(f"Ollama обработает примерно {len(text) // 3000 + 1} фрагм. "
-               "по 3000 символов, каждый отдельным запросом.")
+    st.caption("Ollama читает текст по предложениям, поэтому проверка займёт несколько секунд.")
 
 if st.button("Сканировать", type="primary", disabled=not text.strip()):
     extra = None
