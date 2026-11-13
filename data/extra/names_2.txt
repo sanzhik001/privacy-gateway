@@ -1,0 +1,10 @@
+# Казахские мужские
+Абай, Абылай, Адил, Азамат, Аскар, Асылбек, Ахат, Бакыт, Бауржан, Бейбит, Бекжан, Бекмурат, Болат, Галым, Дамир, Даурен, Думан, Ермурат, Жаксылык, Жалгас, Жеңіс, Жигер, Кайсар, Кенжебек, Куат, Мирас, Мирхат, Мухтар, Нариман, Нұрлан, Рамазан, Расул, Ринат, Сабит, Сакен, Саят, Толеген, Ұлан, Хамит
+# Казахские женские
+Адема, Айза, Айкерим, Айлин, Аида, Ажар, Акмарал, Алтынай, Альбина, Амина, Анель, Асида, Ақнұр, Балауса, Бибигуль, Дильназ, Дариға, Жазира, Жибек, Зере, Зухра, Ильяна, Каусар, Лейла, Мариям, Мөлдір, Наргиз, Сымбат, Улбосын, Фатима, Хадиша, Шугыла
+# Татарские и другие
+Аделина, Адель, Альфия, Амалия, Ангелина, Арина, Белла, Вероника, Диляра, Карим, Камал, Рамиль, Ренат, Рустам, Салават, Ильдар, Ильяс, Ильнур, Марсель, Равиль, Радик, Рафаэль, Эмиль, Эльдар, Эльвира, Эльнара, Гульшат, Гузель, Зульфия, Лейсан, Ляйсан, Резеда, Алсу
+# Английские мужские
+Adam, Alan, Albert, Arthur, Benjamin, Brandon, Caleb, Chris, Christopher, Dylan, Eric, Gary, Gregory, Harry, Ian, Jason, Jeremy, Justin, Keith, Larry, Logan, Lucas, Martin, Nicholas, Noah, Oliver, Oscar, Patrick, Paul, Philip, Samuel, Scott, Sean, Simon, Stephen, Timothy, Tyler, Walter
+# Английские женские
+Amanda, Amy, Angela, Ashley, Betty, Brenda, Carol, Catherine, Christine, Cynthia, Deborah, Diane, Donna, Hannah, Jane, Janet, Joan, Judy, Julie, Katherine, Kelly, Kimberly, Lily, Margaret, Megan, Melissa, Michelle, Nicole, Pamela, Rebecca, Samantha, Sandra, Sharon, Stephanie, Teresa, Victoria, Virginia

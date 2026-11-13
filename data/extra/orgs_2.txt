@@ -1,0 +1,61 @@
+# Банки
+Kaspi Bank
+Каспи Банк
+Kaspi.kz
+Halyk Bank
+Народный банк
+Jusan Bank
+ForteBank
+Bank CenterCredit
+Банк ЦентрКредит
+Bereke Bank
+Altyn Bank
+Алтын банк
+Home Credit Bank
+Shinhan Finance
+Отбасы банк
+Otbasy Bank
+Freedom Bank
+Freedom Finance
+# Компании Казахстана
+Технодом
+Technodom
+Sulpak
+Сулпак
+Arbuz.kz
+Wolt
+inDrive
+Индрайвер
+Choco
+Tengizchevroil
+Тенгизшевройл
+Karachaganak Petroleum Operating
+North Caspian Operating
+ExxonMobil
+Chevron
+ArcelorMittal Temirtau
+АрселорМиттал Темиртау
+Казцинк
+Kazzinc
+Eurasian Resources Group
+KAZ Minerals
+Baiterek
+Байтерек
+KazAgro
+КазАгро
+Kazakh Invest
+Назарбаев Университет
+Nazarbayev University
+КБТУ
+KBTU
+KIMEP
+КазНУ
+# Международные
+Netflix
+Nvidia
+Cisco
+Xiaomi
+Kaspersky
+Лаборатория Касперского
+ВКонтакте
+Mail.ru
