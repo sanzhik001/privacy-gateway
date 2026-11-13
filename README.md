@@ -103,7 +103,7 @@
 
 ## Проверка
 
-    python -m pytest -q                    # 266 автоматических тестов
+    python -m pytest -q                    # 269 автоматических тестов
     python check_holdout.py qwen3.5:4b     # покрытие и ложные срабатывания
     python stress_check.py                 # огромные тексты не вешают систему
     python fuzz_check.py                   # случайные составные тексты
