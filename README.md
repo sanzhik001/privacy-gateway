@@ -64,7 +64,7 @@
 
 Нужны Python 3 и [Ollama](https://ollama.com).
 
-    git clone https://github.com/<логин>/privacy-gateway.git
+    git clone https://github.com/sanzhik001/privacy-gateway.git
     cd privacy-gateway
     python3 -m venv .venv
     source .venv/bin/activate
