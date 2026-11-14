@@ -1,4 +1,4 @@
-"""Privacy Gateway: чат-бот с защитным слоем (Streamlit)."""
+"""Маскировка от Санжика: чат-бот с защитным слоем (Streamlit)."""
 
 import os
 import time
@@ -13,7 +13,7 @@ from src.pipeline import process_message
 
 load_dotenv()
 
-st.set_page_config(page_title="Privacy Gateway", page_icon="🛡️", layout="wide")
+st.set_page_config(page_title="Маскировка от Санжика", page_icon="🛡️", layout="wide")
 
 CSS = """
 <style>
@@ -134,7 +134,7 @@ def set_demo(text):
 # Пароль на вход (если задан CHAT_PASSWORD в .env).
 password = os.getenv("CHAT_PASSWORD")
 if password and not ss.get("auth"):
-    st.title("🛡️ Privacy Gateway")
+    st.title("🛡️ Маскировка от Санжика")
     entered = st.text_input("Пароль доступа", type="password")
     if entered:
         if entered == password:
@@ -145,7 +145,7 @@ if password and not ss.get("auth"):
     st.stop()
 
 with st.sidebar:
-    st.markdown("## 🛡️ Privacy Gateway")
+    st.markdown("## 🛡️ Маскировка от Санжика")
     mode = st.radio("Раздел", ["💬 Чат", "🔬 Демо", "🔐 Журнал"])
     st.divider()
     provider_name = st.selectbox("Провайдер", ["mock", "openai"])
@@ -187,7 +187,7 @@ with st.sidebar:
         st.rerun()
 
 st.markdown(
-    '<div class="pg-hero"><h1>🛡️ Privacy Gateway</h1>'
+    '<div class="pg-hero"><h1>🛡️ Маскировка от Санжика</h1>'
     "<p>Защитный слой между вами и облачной нейросетью: данные маскируются "
     "до отправки и возвращаются только в ваш ответ. Учебный прототип, "
     "вводите только искусственные данные.</p></div>",
